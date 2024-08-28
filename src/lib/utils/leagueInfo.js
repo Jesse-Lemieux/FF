@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <h1>NEWS:</h1>
-  <p>Dan won again. That fucking sucks cmon guys we need to do better..</p>`;
+  <p>Dan won again. That fucking sucks cmon guys we need to do better.. DANS GAY</p>`;
 
 /*   STEP 3   */
 /*
