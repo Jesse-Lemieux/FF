@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>DAN IS GAY</p>`;
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VVwTlPHww-g?si=N0HR93gABYyzyid-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
 
 /*   STEP 3   */
 /*
